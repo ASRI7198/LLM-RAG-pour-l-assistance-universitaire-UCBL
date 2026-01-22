@@ -1,5 +1,12 @@
 # LLM-RAG pour l’assistance universitaire UCBL 🤖🎓
 
+# InfoBot UCBL
+
+<div align="center">
+  <img src="img/Interface.png"">
+  <br>
+</div>
+
 ## Objective 🎯
 **LLM-RAG pour l’assistance universitaire UCBL** is a chatbot powered by Large Language Models (LLM) using **Retrieval-Augmented Generation (RAG)** on university web pages. It is designed to assist students by providing accurate, up-to-date, and context-aware information about the Computer Science Department at Claude Bernard Lyon 1 University.  
 
@@ -59,3 +66,4 @@ The chatbot can:
 3. **Download Public IP**:  
 ```bash
 !wget -q -O - ipv4.canhazip.com
+
